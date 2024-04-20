@@ -1,0 +1,10 @@
+.sectionCats{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divImg{
+    display: flex;
+    src: url(https://cataas.com/cat/says/${text});
+}
